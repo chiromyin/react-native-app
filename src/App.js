@@ -88,14 +88,14 @@ const First5 = {
   fontFamily:'Chilanka',
   textAlign:'center'
 }
-const First6 = {
-  position:'relative',
-  width:'50%',
-  height:'262px',
-  background:"#dc3545",
-  float:'left',
-  marginTop:'20px'
-}
+// const First6 = {
+//   position:'relative',
+//   width:'50%',
+//   height:'262px',
+//   background:"#dc3545",
+//   float:'left',
+//   marginTop:'20px'
+// }
 const First7 = {
   position:'absolute',
   background:'rgba(0,0,0,0.5)',
